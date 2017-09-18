@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505676274 source:c:\users\puler\desktop\szyfr\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	<memory>
+	<vector>
+
